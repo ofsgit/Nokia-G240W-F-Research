@@ -91,9 +91,3 @@ Read/inspection-related commands shown by `help`: `memrl`, `dump`, `imginfo`, `n
 3. Obtain the XML/config and `nokia.py` artifacts if offline analysis is desired; keep `ConfigOrig.cfg` untouched and work on copies.
 4. For NAND, first establish a reliable capture method and validate a small read end-to-end. Prefer a targeted partition read only after address semantics and transfer path are proven. Keep all writes/erases off-limits unless the user explicitly changes scope.
 
-## Current state
-
-- Device at `bldr>`.
-- Rescue HTTP server started and appears to remain available on port 80.
-- Minicom serial session remains open at 115200 baud.
-- No valid full NAND dump, rescue credentials, root shell, or confirmed rescue-page exploit has been obtained.
