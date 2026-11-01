@@ -1,6 +1,8 @@
 # Nokia-G240W-F-Research
 
 **Updated:** 2026-11-01  
+**Current Progress** discontinued (archived)
+**OpenWRT Port** not yet
 **Purpose:** Handoff context for continued investigation of the Nokia G-240W-F configuration, bootloader, rescue page, and shell access.
 
 ## Device and version evidence
